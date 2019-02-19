@@ -1,0 +1,2 @@
+pod 'GameSparks', :git => 'https://bitbucket.org/gamesparkssdk/gamesparks-ios-sdk.git', :tag => "0.5.0"
+
